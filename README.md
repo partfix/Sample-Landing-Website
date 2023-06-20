@@ -1,4 +1,4 @@
-# landing-website\
+# landing-website
 
 My first ever Landingwebsite
 created using BOOTSTRAP, HTML, CSS
