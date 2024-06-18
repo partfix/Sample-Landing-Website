@@ -1,5 +1,5 @@
 # Sample landing website
-Created using 
+Created using :
 
 ```
 ✔ HTML
